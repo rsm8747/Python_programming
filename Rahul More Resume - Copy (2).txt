@@ -1,0 +1,93 @@
+Rahul Suresh More
+Kharadi, Pune, Maharashtra, India
+Phone: +91 9130277152 | Email: rahulmore8747@gmail.com
+LinkedIn: https://www.linkedin.com/in/rahul-more-8bb59415a
+GitHub: https://github.com/rsm8747
+
+Objective
+Dynamic Master of Computer Science graduate with expertise in data science and data analytics. Proficient in Python, SQL, Java, machine learning, and data visualization tools, with hands-on internship experience at Rubix. Seeking to apply advanced analytical skills, problem-solving, and business acumen to drive data-driven decision-making in a Data Science or Data Analytics role.
+
+Education
+Master of Computer Science, SPPU University
+Mamasaheb Mohol College, Pune
+2021 - 2023 | CGPA: 8.87/10
+
+Bachelor of Computer Science, SPPU University
+Mes Abasaheb Garware College, Pune
+2017 - 2021 | Percentage: 63%
+
+HSC, Maharashtra State Board
+Vardhaman High School & Jr College, Malegaon
+2016 - 2017 | Percentage: 76.62%
+
+SSC, Maharashtra State Board
+KYNJ High School & Jr College, Malegaon
+2014 - 2015 | Percentage: 78.40%
+
+Technical Skills
+- Programming: Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, NLTK, SpaCy), R (ggplot2, dplyr), Java, JavaScript, HTML, CSS, Julia
+- Databases: MySQL, PL/SQL, RDBMS, PostgreSQL, MongoDB (NoSQL)
+- Data Science: Machine Learning (Supervised/Unsupervised, Regression, Classification, Clustering, Dimensionality Reduction), Deep Learning (CNNs, RNNs, Transformers), Feature Engineering, Model Evaluation (Cross-Validation, ROC-AUC), Hyperparameter Tuning, NLP (Sentiment Analysis, Topic Modeling), A/B Testing
+- Data Analytics: SQL Querying (Joins, Subqueries), Data Visualization (Tableau, Power BI, Looker, QlikView, Plotly, Seaborn, Matplotlib), ETL Processes, Descriptive/Inferential Statistics, KPI Tracking, Web Analytics (Google Analytics, Mixpanel)
+- Big Data: Hadoop, Spark, Kafka, AWS Redshift, Google BigQuery, Snowflake
+- Cloud Platforms: AWS (SageMaker, Redshift), Google Cloud Platform (BigQuery), Microsoft Azure (Azure ML)
+- MLOps: Model Deployment (Docker, Kubernetes), ML Pipelines (MLflow, Kubeflow), Model Monitoring
+- Tools: Git, GitHub, Jupyter Notebook, VS Code, Excel (VLOOKUP, PivotTables, VBA)
+- Operating Systems: Windows, Linux
+- Other: Statistical Analysis (Probability, Hypothesis Testing), Linear Algebra, Calculus, Data Cleaning, Data Wrangling, Experimentation
+
+Soft Skills
+- Problem-Solving
+- Critical Thinking
+- Communication
+- Teamwork
+- Leadership
+- Analytical Thinking
+- Storytelling with Data
+- Attention to Detail
+- Stakeholder Management
+- Adaptability
+- Time Management
+
+Domain-Specific Skills
+- Industry Knowledge: Finance, Healthcare, E-commerce
+- Business Acumen: KPIs, ROI, Business Metrics Alignment
+
+Internship Experience
+Data Science Intern
+Rubix, Pune, Maharashtra
+May 2025 - Present
+- Developed data preprocessing pipelines using Python and Pandas, cleaning datasets with 10,000+ records, improving data quality by 20%.
+- Wrote complex SQL queries to extract and analyze business data, reducing report generation time by 15%.
+- Created interactive dashboards using Tableau and Power BI, enhancing stakeholder decision-making with real-time insights.
+- Implemented machine learning models for predictive analytics using Scikit-learn, achieving 85% model accuracy.
+- Optimized ETL workflows using Spark, streamlining data integration for large-scale datasets.
+
+Projects
+Car Price Prediction Model (Python, Scikit-learn, Pandas)
+- Built a regression-based machine learning model to predict car prices, achieving an R² score of 0.87.
+- Preprocessed dataset with 200+ records, handling missing values and encoding categorical variables.
+- Deployed model using Docker and Flask, showcased on GitHub.
+
+Customer Churn Analysis Dashboard (Tableau, SQL, Python)
+- Developed an interactive Tableau dashboard to visualize churn trends, identifying retention factors for a telecom dataset.
+- Wrote SQL queries to extract data from MySQL, reducing query runtime by 25%.
+- Used Python for statistical analysis, contributing to a 10% improvement in retention strategies.
+
+Languages
+- English (Fluent)
+- Japanese (JLPT N5)
+- Hindi (Fluent)
+- Marathi (Native)
+
+Certifications
+- Google Data Analytics Professional Certificate (Coursera)
+- Microsoft Power BI Data Analyst Associate (In Progress)
+- Tableau Desktop Specialist (In Progress)
+- AWS Certified Machine Learning – Specialty (Planned)
+- Python for Data Science (DataMites)
+
+Additional Information
+- Active contributor to Kaggle competitions, achieving top 20% ranking in a predictive modeling challenge.
+- Published data science and analytics project walkthroughs on GitHub, demonstrating expertise in Python, SQL, and Tableau.
+- Maintained a technical blog on Medium, sharing insights on data visualization and machine learning.
